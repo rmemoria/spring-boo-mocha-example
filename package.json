@@ -1,0 +1,28 @@
+{
+  "name": "spring-boo-mocha-example",
+  "version": "1.0.0",
+  "description": "Spring boot app using Mocha for integration tests",
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmemoria/spring-boo-mocha-example.git"
+  },
+  "keywords": [
+    "mocha",
+    "springboot"
+  ],
+  "author": "Ricardo Memoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmemoria/spring-boo-mocha-example/issues"
+  },
+  "homepage": "https://github.com/rmemoria/spring-boo-mocha-example#readme"
+}
