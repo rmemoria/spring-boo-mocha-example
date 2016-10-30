@@ -15,7 +15,6 @@ describe('Simple API test', function() {
             .set('Content-Type', 'text/plain')
             .send(req)
             .end((err, res) => {
-                console.log(res.text);
                 assert.equal("Hello " + req, res.text);
                 done();
             });
