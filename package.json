@@ -2,7 +2,6 @@
   "name": "spring-boo-mocha-example",
   "version": "1.0.0",
   "description": "Spring boot app using Mocha for integration tests",
-  "main": "index.js",
   "dependencies": {
     "mocha": "^3.1.2",
     "supertest": "^2.0.1"

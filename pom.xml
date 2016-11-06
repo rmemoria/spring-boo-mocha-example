@@ -39,11 +39,6 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-
             <!-- Install node and npm and run gulp -->
             <plugin>
                 <groupId>com.github.eirslett</groupId>

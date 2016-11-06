@@ -1,5 +1,7 @@
 # spring-boo-mocha-example
-An example of a simple spring boot application using MochaJS for integration testing.
+An example of a simple spring boot application using [MochaJS](https://mochajs.org/) for integration testing.
+
+This example is from the blog article [Test Spring Boot app with MochaJS](http://rmemoria.blogspot.com.br/2016/11/testing-spring-boot-apps-with-mochajs.html)
 
 ## How to use it?
 
